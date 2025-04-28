@@ -2,4 +2,5 @@
 This is a collection of small projects as I familiarize myself with Python basics and work toward intermediate and advanced concepts.
 
 Projects:
-- Madlib 
+- Madlib
+- Rock, Paper, Scissors
